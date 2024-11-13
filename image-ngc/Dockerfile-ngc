@@ -16,7 +16,7 @@ ARG VERSIONDIR=/home/opensim/VERSION
 ARG OS_ACCOUNT=opensim
 
 # Arguments for fetching the proper version of OpenSimulator
-ARG OS_GIT_REPO=https://github.com/OpenSim-NGC/OpenSim-Sasquatch.git
+ARG OS_GIT_REPO=https://github.com/OpenSim-NGC/OpenSim-Tranquillity.git
 ARG OS_GIT_BRANCH=develop
 ARG OS_BUILDTARGET=Release
 ARG OS_SLN=OpenSim.sln

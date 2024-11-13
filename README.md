@@ -230,5 +230,5 @@ will connect you to the OpenSimulator console. *TO EXIT SCREEN* the command is `
 [Docker]: https://www.docker.com
 [Herbal3d]: https://www.herbal3d.org
 [MariaDB]: https://mariadb.org/
-[NCG]: https://github.com/OpenSim-NGC/OpenSim-Sasquatch
+[NCG]: https://github.com/OpenSim-NGC/OpenSim-Tranquillity
 
